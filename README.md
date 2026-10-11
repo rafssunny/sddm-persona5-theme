@@ -27,7 +27,7 @@ This repository includes an installation script that handles copying files, sett
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/persona5-sddm-theme.git](https://github.com/YOUR_USERNAME/persona5-sddm-theme.git)
+    git clone [https://github.com/rafssunny/persona5-sddm-theme.git](https://github.com/rafssunny/persona5-sddm-theme.git)
     cd persona5-sddm-theme
     ```
 
